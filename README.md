@@ -1,0 +1,1 @@
+This is the content of one of the practical exercises we had to do in "Database Interfacing" class. The goal was, given a relational DB model, to implement it using PHP and being able to initialize the database, register and remove grades ("Notes") and display them.
